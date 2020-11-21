@@ -2,9 +2,9 @@
 # defaults file for tomcat
 
 # The explicit version to use when referring to the short name.
-tomcat_version7: 7.0.104
-tomcat_version8: 8.5.56
-tomcat_version9: 9.0.36
+tomcat_version7: 7.0.106
+tomcat_version8: 8.5.60
+tomcat_version9: 9.0.40
 
 # The location where to download Apache Tomcat from.
 tomcat_mirror: "https://archive.apache.org"
